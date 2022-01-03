@@ -1,0 +1,4 @@
+<!--components/floating-action-button/floating-action-button.wxml-->
+<view class="floating-action-button ext-class" hover-class="hover">
+  <slot></slot>
+</view>
